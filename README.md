@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Projeto IoT — CRUD de ambientes e sensores
+
+Este repositório inclui um painel em português para cadastrar, listar, editar e excluir ambientes e sensores. Para executar a demonstração com SQLite, dados de exemplo e testes, consulte [`LOCAL-DEMO.md`](LOCAL-DEMO.md).
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
